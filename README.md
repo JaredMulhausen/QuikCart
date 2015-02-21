@@ -1,1 +1,1 @@
-# QuikCart
+GitHub account for the project
